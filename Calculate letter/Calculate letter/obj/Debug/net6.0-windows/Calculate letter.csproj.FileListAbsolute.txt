@@ -1,0 +1,16 @@
+C:\Users\Isaac\source\repos\Calculate letter\Calculate letter\bin\Debug\net6.0-windows\Calculate letter.exe
+C:\Users\Isaac\source\repos\Calculate letter\Calculate letter\bin\Debug\net6.0-windows\Calculate letter.deps.json
+C:\Users\Isaac\source\repos\Calculate letter\Calculate letter\bin\Debug\net6.0-windows\Calculate letter.runtimeconfig.json
+C:\Users\Isaac\source\repos\Calculate letter\Calculate letter\bin\Debug\net6.0-windows\Calculate letter.dll
+C:\Users\Isaac\source\repos\Calculate letter\Calculate letter\bin\Debug\net6.0-windows\Calculate letter.pdb
+C:\Users\Isaac\source\repos\Calculate letter\Calculate letter\obj\Debug\net6.0-windows\Calculate_letter.Form1.resources
+C:\Users\Isaac\source\repos\Calculate letter\Calculate letter\obj\Debug\net6.0-windows\Calculate letter.csproj.GenerateResource.cache
+C:\Users\Isaac\source\repos\Calculate letter\Calculate letter\obj\Debug\net6.0-windows\Calculate letter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaac\source\repos\Calculate letter\Calculate letter\obj\Debug\net6.0-windows\Calculate letter.AssemblyInfoInputs.cache
+C:\Users\Isaac\source\repos\Calculate letter\Calculate letter\obj\Debug\net6.0-windows\Calculate letter.AssemblyInfo.cs
+C:\Users\Isaac\source\repos\Calculate letter\Calculate letter\obj\Debug\net6.0-windows\Calculate letter.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\source\repos\Calculate letter\Calculate letter\obj\Debug\net6.0-windows\Calculate letter.dll
+C:\Users\Isaac\source\repos\Calculate letter\Calculate letter\obj\Debug\net6.0-windows\refint\Calculate letter.dll
+C:\Users\Isaac\source\repos\Calculate letter\Calculate letter\obj\Debug\net6.0-windows\Calculate letter.pdb
+C:\Users\Isaac\source\repos\Calculate letter\Calculate letter\obj\Debug\net6.0-windows\Calculate letter.genruntimeconfig.cache
+C:\Users\Isaac\source\repos\Calculate letter\Calculate letter\obj\Debug\net6.0-windows\ref\Calculate letter.dll
